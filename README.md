@@ -26,3 +26,11 @@ allow pasting
 ```
 
 이 명령어를 입력하면 붙여넣기가 허용되며, 이후 `Ctrl+V`로 매크로 코드를 정상적으로 붙여넣을 수 있습니다.
+
+### 경고 메시지 예시
+
+경고 메시지 예시는 다음과 같습니다:
+
+```
+Warning: Don’t paste code into the DevTools Console that you don’t understand or haven’t reviewed yourself. This could allow attackers to steal your identity or take control of your computer. Please type ‘allow pasting’ below and hit Enter to allow pasting.
+```
